@@ -24,7 +24,7 @@
 
 Деплой проекта был размещён на бесплатном хостинге Vercel
 
-> [Hacker News by Farahmand_Shururov](hacker-news-phi-fawn.vercel.app)
+> [Hacker News by Farahmand_Shururov]([hacker-news-phi-fawn.vercel.app](https://hacker-news-phi-fawn.vercel.app/))
 
 ## Запуск проекта
 
